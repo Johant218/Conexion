@@ -1,8 +1,3 @@
-<%-- 
-    Document   : registrar
-    Created on : 3/11/2023, 8:11:29 p. m.
-    Author     : johan
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@ page import="java.sql.*" %>
